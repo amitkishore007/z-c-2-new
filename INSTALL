@@ -1,0 +1,9 @@
+Building Zedexcoin
+
+See doc/readme-qt.rst for instructions on building Zedexcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Zedexcoin.
+
+See doc/build-*.txt for instructions on building zedexcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Zedexcoin.
